@@ -4,6 +4,9 @@ This is a curated list of libraries and frameworks for Neural network and deep l
 
 | package | description |
 |---------|-------------|
+| [keras](https://rstudio.github.io/keras) | Rstudio's R keras interface |
+| [kerasR](https://github.com/statsmaths/kerasR) | R interface to the keras library by Taylor Arnold |
+| [tensorflow](https://tensorflow.rstudio.com/) | R interface to TensorFlow |
 | [nnet](https://cran.r-project.org/web/packages/nnet/index.html) | Software for feed-forward neural networks with a single hidden layer, and for multinomial log-linear models | 
 | [neuralnet](https://cran.r-project.org/web/packages/neuralnet/) | Training of neural networks using backpropagation, resilient backpropagation with (Riedmiller, 1994) or without weight backtracking (Riedmiller and Braun, 1993) or the modified globally convergent version by Anastasiadis et al. (2005). The package allows flexible settings through custom-choice of error and activation function. Furthermore, the calculation of generalized weights (Intrator O & Intrator N, 1993) is implemented |
 | [NeuralNetTools](https://cran.r-project.org/web/packages/NeuralNetTools/index.html) | Visualization and analysis tools to aid in the interpretation of neural network models. Functions are available for plotting, quantifying variable importance, conducting a sensitivity analysis, and obtaining a simple list of model weights |
