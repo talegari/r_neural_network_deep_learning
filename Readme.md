@@ -4,6 +4,7 @@ This is a curated list of libraries and frameworks for Neural network and deep l
 
 | package | description |
 |---------|-------------|
+| [monmlp](https://cran.r-project.org/web/packages/monmlp/index.html) | Train and make predictions from a multi-layer perceptron neural network with optional partial monotonicity constraints |
 | [keras](https://rstudio.github.io/keras) | Rstudio's R keras interface |
 | [kerasR](https://github.com/statsmaths/kerasR) | R interface to the keras library by Taylor Arnold |
 | [tensorflow](https://tensorflow.rstudio.com/) | R interface to TensorFlow |
