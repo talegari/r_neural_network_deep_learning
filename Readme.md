@@ -4,6 +4,7 @@ This is a curated list of libraries and frameworks for Neural network and deep l
 
 | package | description |
 |---------|-------------|
+| [BoltzMM](https://cran.r-project.org/web/packages/BoltzMM/index.html) | Provides probability computation, data generation, and model estimation for fully-visible Boltzmann machines. It follows the methods described in Nguyen and Wood (2016a) <doi:10.1162/NECO_a_00813> and Nguyen and Wood (2016b) <doi:10.1109/TNNLS.2015.2425898> |
 | [monmlp](https://cran.r-project.org/web/packages/monmlp/index.html) | Train and make predictions from a multi-layer perceptron neural network with optional partial monotonicity constraints |
 | [keras](https://rstudio.github.io/keras) | Rstudio's R keras interface |
 | [kerasR](https://github.com/statsmaths/kerasR) | R interface to the keras library by Taylor Arnold |
