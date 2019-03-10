@@ -4,6 +4,7 @@ This is a curated list of libraries and frameworks for Neural network and deep l
 
 | package | description |
 |---------|-------------|
+| [deepNN](https://CRAN.R-project.org/package=deepNN)  | Implementation of some Deep Learning methods. Includes multilayer perceptron, different activation functions, regularisation strategies, stochastic gradient descent and dropout |
 | [ruta](https://github.com/fdavidcl/ruta) | unsupervised deep neural networks, from building their architecture to their training and evaluation built on top of keras and tensorflow |
 | [kerasformula](https://cran.r-project.org/web/packages/kerasformula/index.html) | Adds a high-level interface for 'keras' neural nets. kms() fits neural net and accepts R formulas to aid data munging and hyperparameter selection. kms() can optionally accept a compiled keras_sequential_model() from 'keras'. kms() accepts a number of parameters (like loss and optimizer) and splits the data into sparse test and training matrices. kms() returns a single object with predictions, a confusion matrix, and function call details |
 | [BoltzMM](https://cran.r-project.org/web/packages/BoltzMM/index.html) | Provides probability computation, data generation, and model estimation for fully-visible Boltzmann machines. It follows the methods described in Nguyen and Wood (2016a) <doi:10.1162/NECO_a_00813> and Nguyen and Wood (2016b) <doi:10.1109/TNNLS.2015.2425898> |
