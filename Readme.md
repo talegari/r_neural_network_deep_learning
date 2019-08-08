@@ -4,6 +4,7 @@ This is a curated list of libraries and frameworks for Neural network and deep l
 
 | package | description |
 |---------|-------------|
+| [rTorch](https://CRAN.R-project.org/package=rTorch) | 'R' implementation and interface of the Machine Learning platform 'PyTorch' <https://pytorch.org/> developed in 'Python'. It requires a 'conda' environment with 'torch' and 'torchvision' to provide 'PyTorch' functions, methods and classes. The key object in 'PyTorch' is the tensor which is in essence a multidimensional array. These tensors are fairly flexible to perform calculations in CPUs as well as 'GPUs' to accelerate the process |
 | [GRnnet](https://github.com/statcompute/GRnnet) | implementation of GRNN ( General Regression Neural Network (Specht, 1991) ) |
 | [NeuralSens](https://cran.r-project.org/web/packages/NeuralSens/index.html) | Analysis functions to quantify inputs importance in neural network models. Functions are available for calculating and plotting the inputs importance and obtaining the activation function of each neuron layer and its derivatives. The importance of a given input is defined as the distribution of the derivatives of the output with respect to that input in each training data point. |
 | [deepNN](https://CRAN.R-project.org/package=deepNN)  | Implementation of some Deep Learning methods. Includes multilayer perceptron, different activation functions, regularisation strategies, stochastic gradient descent and dropout |
